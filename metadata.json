@@ -1,0 +1,7 @@
+{
+  "name": "Tilawa",
+  "description": "Quran recitation recognition, alignment, and correction app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
